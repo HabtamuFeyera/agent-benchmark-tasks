@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The data files derived from Wikipedia are not covered by this licence; they are
-CC BY-SA 4.0. See SOURCES.md.
+Data files derived from other sources (for example Wikipedia text, CC BY-SA 4.0) are
+not covered by this licence. Each task's SOURCES.md lists them and their licences.
