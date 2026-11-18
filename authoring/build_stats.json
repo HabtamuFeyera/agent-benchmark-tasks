@@ -1,0 +1,9 @@
+{
+ "passages": 3000,
+ "articles": 1630,
+ "visible_questions": 300,
+ "visible_cached": 137,
+ "heldout_questions": 300,
+ "heldout_cached": 141,
+ "cache_noise_entries": 150
+}
